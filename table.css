@@ -1,0 +1,62 @@
+*{  padding: 0px;
+    margin: 15px;
+    
+}
+
+table,th,td{border: 1px solid black; width: 1000px;
+} 
+.t-heading{
+    background-color:blanchedalmond;
+    
+} 
+.Green1{
+    background-color: green; font-size: medium; font-weight: 900;
+}
+.identity-label{
+    background-color: rgb(224, 220, 220);
+}
+.id-detail{
+    background-color: rgb(232, 232, 232) ;
+}
+.terms{
+    width: 570px;
+}
+.additional{
+    border-right-style:hidden; background-color: green;
+}
+.yes{
+    border-right-style:hidden; background-color: green;
+}
+.Contact{
+    font-size: medium; font-weight: 800; background-color: green; width: 1000px; margin-bottom: -15px;
+}
+.Employment{
+    font-size: medium; font-weight: 800; background-color: green; width: 1000px; margin-bottom: -15px;   
+}
+.yes{ 
+    width: 100px;
+}
+.no{
+    width: 100px; background-color: green;
+}
+#no{
+    width: 500px; border-right-style: inherit;
+}
+#yes{
+    width: 100px; border-right-style:inherit ;
+}
+#questions{
+    background-color: white; border-right-style: inherit;
+}
+.heading{
+    font-size: 26px;
+}
+.id-detail1{
+    background-color: rgb(232, 232, 232) ;
+    border-style: inherit;
+    border-color: rgb(232, 232, 232) ;
+
+}
+.space{
+ height: -100px; 
+}
